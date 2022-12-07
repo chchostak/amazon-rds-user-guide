@@ -22,9 +22,6 @@ You can turn CoIPs on or off when you perform any of the following actions:
 + Create a DB instance
 
   For more information, see [Creating DB instances for Amazon RDS on AWS Outposts](rds-on-outposts.creating.md)\.
-+ Modify a DB instance
-
-  For more information, see [Modifying an Amazon RDS DB instance](Overview.DBInstance.Modifying.md)\.
 + Restore a DB instance from a snapshot
 
   For more information, see [Restoring from a DB snapshot](USER_RestoreFromSnapshot.md)\.
